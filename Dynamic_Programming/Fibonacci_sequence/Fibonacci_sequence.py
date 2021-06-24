@@ -25,7 +25,7 @@ def Fib_number(number:int):
 
 # TESTING #
 
-test_numbers = [0, 1, 5, 25, 50, 100, 300]
+test_numbers = [0, 1, 7, 25, 50, 100, 300]
 
 # It shouldn't take too long to perform these test
 
